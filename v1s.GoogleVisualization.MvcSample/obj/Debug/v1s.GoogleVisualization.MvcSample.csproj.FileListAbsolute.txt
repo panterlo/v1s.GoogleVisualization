@@ -1,0 +1,7 @@
+c:\users\jenyl\documents\visual studio 2010\Projects\v1s.GoogleVisualization\v1s.GoogleVisualization.MvcSample\bin\v1s.GoogleVisualization.MvcSample.dll
+c:\users\jenyl\documents\visual studio 2010\Projects\v1s.GoogleVisualization\v1s.GoogleVisualization.MvcSample\bin\v1s.GoogleVisualization.MvcSample.pdb
+c:\users\jenyl\documents\visual studio 2010\Projects\v1s.GoogleVisualization\v1s.GoogleVisualization.MvcSample\bin\v1s.GoogleVisualization.dll
+c:\users\jenyl\documents\visual studio 2010\Projects\v1s.GoogleVisualization\v1s.GoogleVisualization.MvcSample\bin\v1s.GoogleVisualization.pdb
+c:\users\jenyl\documents\visual studio 2010\Projects\v1s.GoogleVisualization\v1s.GoogleVisualization.MvcSample\obj\Debug\ResolveAssemblyReference.cache
+c:\users\jenyl\documents\visual studio 2010\Projects\v1s.GoogleVisualization\v1s.GoogleVisualization.MvcSample\obj\Debug\v1s.GoogleVisualization.MvcSample.dll
+c:\users\jenyl\documents\visual studio 2010\Projects\v1s.GoogleVisualization\v1s.GoogleVisualization.MvcSample\obj\Debug\v1s.GoogleVisualization.MvcSample.pdb
