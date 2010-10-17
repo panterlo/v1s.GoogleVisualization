@@ -1,0 +1,5 @@
+C:\Users\jenyl\Documents\Visual Studio 2010\Projects\v1s\v1s.GoogleVisualization\bin\Release\v1s.GoogleVisualization.dll
+C:\Users\jenyl\Documents\Visual Studio 2010\Projects\v1s\v1s.GoogleVisualization\bin\Release\v1s.GoogleVisualization.pdb
+C:\Users\jenyl\Documents\Visual Studio 2010\Projects\v1s\v1s.GoogleVisualization\obj\Release\ResolveAssemblyReference.cache
+C:\Users\jenyl\Documents\Visual Studio 2010\Projects\v1s\v1s.GoogleVisualization\obj\Release\v1s.GoogleVisualization.dll
+C:\Users\jenyl\Documents\Visual Studio 2010\Projects\v1s\v1s.GoogleVisualization\obj\Release\v1s.GoogleVisualization.pdb
