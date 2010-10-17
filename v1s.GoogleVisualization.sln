@@ -1,7 +1,25 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "v1s.GoogleVisualization", "v1s.GoogleVisualization\v1s.GoogleVisualization.csproj", "{1D4630D6-4384-4232-BFC6-729EA9E2AE7D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "v1s.GoogleVisualization.MvcSample", "v1s.GoogleVisualization.MvcSample\v1s.GoogleVisualization.MvcSample.csproj", "{08730D49-A5A2-4FF7-A1AB-E0C0F72380A8}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D4630D6-4384-4232-BFC6-729EA9E2AE7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D4630D6-4384-4232-BFC6-729EA9E2AE7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D4630D6-4384-4232-BFC6-729EA9E2AE7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D4630D6-4384-4232-BFC6-729EA9E2AE7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08730D49-A5A2-4FF7-A1AB-E0C0F72380A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08730D49-A5A2-4FF7-A1AB-E0C0F72380A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08730D49-A5A2-4FF7-A1AB-E0C0F72380A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08730D49-A5A2-4FF7-A1AB-E0C0F72380A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection

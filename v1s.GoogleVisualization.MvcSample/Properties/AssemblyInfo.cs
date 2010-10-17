@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("v1s.GoogleVisualization.MvcSample")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Microsoft")]
+[assembly: AssemblyCompany("Panterlo AB")]
 [assembly: AssemblyProduct("v1s.GoogleVisualization.MvcSample")]
-[assembly: AssemblyCopyright("Copyright © Microsoft 2010")]
+[assembly: AssemblyCopyright("Copyright © Panterlo AB")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
